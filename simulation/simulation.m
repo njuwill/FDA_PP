@@ -1,4 +1,4 @@
-%x2y2z2
+%simulation for case x2y2z2 
 %phi_x=(1 sqrt(3)*(1-2t));phi_y=(1 sqrt(2)*sin(2pit));phi_z=(1 sqrt(2)*cos(4pit));
 %lambda0=lambda0=@(t) (0.3*cos(2*pi*t)+1);  
 clear all
